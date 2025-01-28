@@ -1,0 +1,101 @@
+BranchID,BranchName,City,State,IFSC,ManagerName
+1,Branch-1,New Delhi,Jharkhand,IFSC0001,Neysa Ghose
+2,Branch-2,Bijapur,Goa,IFSC0002,Nirvi Sama
+3,Branch-3,Nagpur,Karnataka,IFSC0003,Neysa Lanka
+4,Branch-4,Ujjain,Chhattisgarh,IFSC0004,Azad Walia
+5,Branch-5,Guntakal,Kerala,IFSC0005,Tarini Bhat
+6,Branch-6,Vasai-Virar,Goa,IFSC0006,Myra Sidhu
+7,Branch-7,Bhilai,West Bengal,IFSC0007,Baiju Grover
+8,Branch-8,Silchar,Odisha,IFSC0008,Reyansh Bassi
+9,Branch-9,Eluru,Meghalaya,IFSC0009,Hazel Swamy
+10,Branch-10,Cuttack,Andhra Pradesh,IFSC0010,Anika Dayal
+11,Branch-11,Buxar,Madhya Pradesh,IFSC0011,Vivaan Ranganathan
+12,Branch-12,Medininagar,Himachal Pradesh,IFSC0012,Dhruv Chaudhry
+13,Branch-13,Katni,Karnataka,IFSC0013,Sara Vasa
+14,Branch-14,Jaunpur,West Bengal,IFSC0014,Charvi Bora
+15,Branch-15,Gulbarga,Chhattisgarh,IFSC0015,Vritika Sabharwal
+16,Branch-16,Meerut,Bihar,IFSC0016,Saksham Arora
+17,Branch-17,Berhampur,Madhya Pradesh,IFSC0017,Indrans Rana
+18,Branch-18,Nangloi Jat,Tamil Nadu,IFSC0018,Jayant Chaudhary
+19,Branch-19,Davanagere,Sikkim,IFSC0019,Adah Ratta
+20,Branch-20,Khora ,Telangana,IFSC0020,Piya Bhatti
+21,Branch-21,Kulti,Odisha,IFSC0021,Ehsaan Chacko
+22,Branch-22,Serampore,Telangana,IFSC0022,Kabir Madan
+23,Branch-23,Kurnool,Odisha,IFSC0023,Anahi Bora
+24,Branch-24,Munger,Maharashtra,IFSC0024,Lakshay Balan
+25,Branch-25,Varanasi,Andhra Pradesh,IFSC0025,Bhamini Maharaj
+26,Branch-26,Amaravati,Punjab,IFSC0026,Nehmat Gill
+27,Branch-27,Saharanpur,Tamil Nadu,IFSC0027,Aayush Dugar
+28,Branch-28,Dhule,Himachal Pradesh,IFSC0028,Arhaan Rajagopal
+29,Branch-29,Solapur,Bihar,IFSC0029,Heer Walla
+30,Branch-30,Bally,Bihar,IFSC0030,Abram Gera
+31,Branch-31,Dhule,Assam,IFSC0031,Gokul Tank
+32,Branch-32,Nellore,Jharkhand,IFSC0032,Bhavin Sunder
+33,Branch-33,Kamarhati,Gujarat,IFSC0033,Taran Chakrabarti
+34,Branch-34,Bareilly,Maharashtra,IFSC0034,Riya Comar
+35,Branch-35,Bulandshahr,Madhya Pradesh,IFSC0035,Alia Bora
+36,Branch-36,Khora ,Meghalaya,IFSC0036,Miraya Dass
+37,Branch-37,Unnao,Karnataka,IFSC0037,Rohan Khare
+38,Branch-38,Mathura,Kerala,IFSC0038,Sumer Ramesh
+39,Branch-39,Barasat,Maharashtra,IFSC0039,Anahita Gala
+40,Branch-40,Tiruppur,Uttar Pradesh,IFSC0040,Ivan Kuruvilla
+41,Branch-41,Solapur,Tamil Nadu,IFSC0041,Vedika Grewal
+42,Branch-42,Sangli-Miraj & Kupwad,Haryana,IFSC0042,Vidur Yadav
+43,Branch-43,Surat,Manipur,IFSC0043,Charvi Khurana
+44,Branch-44,Kozhikode,Telangana,IFSC0044,Bhavin Rao
+45,Branch-45,Bhiwani,Assam,IFSC0045,Purab Balakrishnan
+46,Branch-46,Thanjavur,Mizoram,IFSC0046,Navya Ratta
+47,Branch-47,Aizawl,Nagaland,IFSC0047,Rania Ram
+48,Branch-48,Vadodara,Karnataka,IFSC0048,Shanaya Magar
+49,Branch-49,Rampur,Arunachal Pradesh,IFSC0049,Samaira Bumb
+50,Branch-50,Tezpur,Meghalaya,IFSC0050,Bhavin Tata
+51,Branch-51,Shimoga,Telangana,IFSC0051,Vidur Dar
+52,Branch-52,Anand,Bihar,IFSC0052,Nitya Chaudhari
+53,Branch-53,Tinsukia,Arunachal Pradesh,IFSC0053,Aaryahi Mandal
+54,Branch-54,Parbhani,Maharashtra,IFSC0054,Anahi Deol
+55,Branch-55,Erode,Jharkhand,IFSC0055,Lavanya Bava
+56,Branch-56,Gulbarga,Bihar,IFSC0056,Tanya Sekhon
+57,Branch-57,Junagadh,Haryana,IFSC0057,Aniruddh Rao
+58,Branch-58,Navi Mumbai,Andhra Pradesh,IFSC0058,Rati Sethi
+59,Branch-59,Ramagundam,Madhya Pradesh,IFSC0059,Shayak Ganesh
+60,Branch-60,Panvel,Himachal Pradesh,IFSC0060,Baiju Ganguly
+61,Branch-61,Thoothukudi,Rajasthan,IFSC0061,Piya Bhardwaj
+62,Branch-62,Ambarnath,Nagaland,IFSC0062,Damini Anne
+63,Branch-63,Maheshtala,Punjab,IFSC0063,Tarini Chacko
+64,Branch-64,Kolkata,Uttarakhand,IFSC0064,Ryan Sarma
+65,Branch-65,Khammam,Tamil Nadu,IFSC0065,Charvi Mand
+66,Branch-66,Dewas,Gujarat,IFSC0066,Azad Bhandari
+67,Branch-67,Berhampore,Arunachal Pradesh,IFSC0067,Fateh Deshpande
+68,Branch-68,Bathinda,Arunachal Pradesh,IFSC0068,Mahika Sarna
+69,Branch-69,Cuttack,Mizoram,IFSC0069,Vaibhav Loyal
+70,Branch-70,Thane,Uttar Pradesh,IFSC0070,Rohan Jani
+71,Branch-71,Meerut,Madhya Pradesh,IFSC0071,Renee Goel
+72,Branch-72,Dehradun,Punjab,IFSC0072,Hansh Bhavsar
+73,Branch-73,Malda,Meghalaya,IFSC0073,Rasha Kaul
+74,Branch-74,Thoothukudi,Tamil Nadu,IFSC0074,Jayant Ganesan
+75,Branch-75,Panchkula,West Bengal,IFSC0075,Lavanya Mangal
+76,Branch-76,Morena,Arunachal Pradesh,IFSC0076,Divij Agate
+77,Branch-77,Medininagar,Uttarakhand,IFSC0077,Raunak Krish
+78,Branch-78,Kadapa,Karnataka,IFSC0078,Shanaya Iyengar
+79,Branch-79,Bilaspur,Mizoram,IFSC0079,Emir Srinivasan
+80,Branch-80,Ghaziabad,Tripura,IFSC0080,Alisha Gill
+81,Branch-81,Tinsukia,Maharashtra,IFSC0081,Aarna Mannan
+82,Branch-82,Rajkot,Kerala,IFSC0082,Mishti Singhal
+83,Branch-83,Raichur,Karnataka,IFSC0083,Devansh Comar
+84,Branch-84,Ongole,Karnataka,IFSC0084,Raunak Golla
+85,Branch-85,Bongaigaon,Odisha,IFSC0085,Amani Deo
+86,Branch-86,Amaravati,Telangana,IFSC0086,Renee Master
+87,Branch-87,Bhalswa Jahangir Pur,Tamil Nadu,IFSC0087,Anaya Hans
+88,Branch-88,Adoni,Maharashtra,IFSC0088,Kiaan Swamy
+89,Branch-89,Kadapa,Nagaland,IFSC0089,Nehmat Trivedi
+90,Branch-90,Ludhiana,Chhattisgarh,IFSC0090,Alisha Loke
+91,Branch-91,Belgaum,Uttar Pradesh,IFSC0091,Eva Sem
+92,Branch-92,Bhilai,Manipur,IFSC0092,Kanav Srivastava
+93,Branch-93,Alappuzha,Kerala,IFSC0093,Ahana  Sibal
+94,Branch-94,Gopalpur,Manipur,IFSC0094,Dhruv Shah
+95,Branch-95,Kalyan-Dombivli,Uttarakhand,IFSC0095,Bhavin Kar
+96,Branch-96,Nanded,Maharashtra,IFSC0096,Dishani Kala
+97,Branch-97,Hospet,Odisha,IFSC0097,Charvi Shukla
+98,Branch-98,Jalandhar,Nagaland,IFSC0098,Stuvan Ranganathan
+99,Branch-99,Agra,Tamil Nadu,IFSC0099,Priyansh Bedi
+100,Branch-100,Nagercoil,Arunachal Pradesh,IFSC0100,Bhavin Chaudry
